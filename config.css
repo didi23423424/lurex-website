@@ -18,36 +18,36 @@
 
 @font-face {
   font-family: 'RJ';
-  src: url('../font/Rajdhani-Bold.ttf') format('truetype');
+  src: url('ui/assets/font//Rajdhani-Bold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Mr Dafoe';
-  src: url('../font/MrDafoe-Regular.ttf') format('truetype');
+  src: url('ui/assets/font/MrDafoe-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'RJ-S';
-  src: url('../font/Rajdhani-SemiBold.ttf') format('truetype');
+  src: url('ui/assets/font/Rajdhani-SemiBold.ttf') format('truetype');
 }
 
 
 @font-face {
     font-family: 'shabo';
-    src: url('../font/SCHABO-Condensed.otf') format('opentype');
+    src: url('ui/assets/font/SCHABO-Condensed.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('../font/Montserrat-Bold.ttf') format('truetype');
+    src: url('ui/assets/font/Montserrat-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: akrobat;
-    src: url('../font/Akrobat-Bold.otf') format('opentype');
+    src: url('ui/assets/font/Akrobat-Bold.otf') format('opentype');
 }
 
 @font-face {
     font-family: bebas;
-    src: url('../font/BebasNeue-Regular.ttf') format('truetype');
+    src: url('ui/assets/font/BebasNeue-Regular.ttf') format('truetype');
 }
